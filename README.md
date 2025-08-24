@@ -6,6 +6,8 @@
 
 **本软件著作权归作者所有，代发布者仅协助发布，不享有任何著作权。**
 
+**以下除下载链接及鸣谢外皆来源于yangdicheng2013**
+
 # README 
 **版本 1.0 暂时只能在windows 10+上使用，请见谅**
 (有python的可以pip install -r requirements.txt)
