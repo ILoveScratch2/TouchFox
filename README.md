@@ -1,5 +1,4 @@
-# TouchMouse————更好的TouchFish
-
+# TouchMouse —— 更好的轻量级客户端聊天程序
 # README
 
 **版本 1.0 暂时只能在windows 10+上使用，请见谅**
@@ -31,3 +30,9 @@
 ## 后续
 
 qq 群 945329956，欢迎各位讨论、提建议和找Bug。
+
+### 鸣谢：
+
+### [yangdicheng2013](https://www.luogu.com.cn/user/1268479) for 宣传!
+
+### 你 for 使用!
