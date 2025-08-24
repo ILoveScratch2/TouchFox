@@ -1,4 +1,13 @@
+# region COPYRIGHT
+
+# Copyright © 2025 [MinerMouse]
+# Luogu UID:1203704
+# 本软件著作权归作者所有，代发布者仅协助发布，除经过授权，不享有任何著作权。
+
+# endregion
+
 # server.py
+
 import asyncio, json, logging
 from datetime import datetime
 from pathlib import Path
