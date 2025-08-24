@@ -1,6 +1,12 @@
 # TouchMouse —— 更好的轻量级客户端聊天程序
-# README
 
+# COPYRIGHT
+
+**Copyright © 2025 [[MinerMouse](https://www.luogu.com.cn/user/1203704)]**
+
+**本软件著作权归作者所有，代发布者仅协助发布，不享有任何著作权。**
+
+# README 
 **版本 1.0 暂时只能在windows 10+上使用，请见谅**
 (有python的可以pip install -r requirements.txt)
 
