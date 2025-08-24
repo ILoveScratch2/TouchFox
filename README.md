@@ -2,6 +2,7 @@
 # README
 
 **版本 1.0 暂时只能在windows 10+上使用，请见谅**
+(有python的可以pip install requirements.txt -r)
 
 ## TouchMouse 使用
 
