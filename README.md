@@ -42,6 +42,6 @@ qq 群 885981046，欢迎各位讨论、提建议和找Bug。
 
 ### 鸣谢：
 
-### [yangdicheng2013](https://www.luogu.com.cn/user/1268479) for 宣传!
+### [yangdicheng2013](https://www.luogu.com.cn/user/1268479) for 宣传1.0版本&编写README的最初版本!
 
 ### 你 for 使用!
