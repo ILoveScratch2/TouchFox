@@ -12,11 +12,11 @@
 
 ## TouchMouse 使用
 
-1.[下载源码+可执行文件](https://easylink.cc/8s4tnv)
+1.[下载源码+可执行文件]()   (暂时废了)
 
-[Client.exe](https://easylink.cc/opvhx4)
+[Client.exe]()   (暂时废了)
 
-[Server.exe](https://easylink.cc/f37a1)
+[Server.exe]()   (暂时废了)
 
 2.解压
 
