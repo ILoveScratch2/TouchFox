@@ -2,11 +2,11 @@
 
 # README
 
-**版本 1.0**
+**版本 1.0 暂时只能在windows 10+上使用，请见谅**
 
 ## TouchMouse 使用
 
-1.[下载](https://easylink.cc/8s4tnv)
+1.[下载源码+可执行文件](https://easylink.cc/8s4tnv)
 
 [Client.exe](https://easylink.cc/opvhx4)
 
