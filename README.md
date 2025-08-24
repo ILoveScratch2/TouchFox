@@ -7,6 +7,8 @@
 ## TouchMouse 使用
 
 1.[下载](https://easylink.cc/8s4tnv)
+[Client.exe](https://easylink.cc/opvhx4)
+[Server.exe](https://easylink.cc/f37a1)
 
 2.解压
 
