@@ -1,3 +1,13 @@
+# region COPYRIGHT
+
+# Copyright © 2025 [MinerMouse]
+# Luogu UID:1203704
+# 本软件著作权归作者所有，代发布者仅协助发布，除经过授权，不享有任何著作权。
+
+# endregion
+
+# client.py
+
 import sys, os, json, asyncio, websockets, threading, queue, datetime, re, logging
 from pathlib import Path
 from PySide6.QtWidgets import *
