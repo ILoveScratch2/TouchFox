@@ -11,7 +11,7 @@
 **README 最初由 [yangdicheng2013] 撰写，本人已做部分修改。**
 
 # README 
-**版本 2.0 的可执行文件只能在windows 10+上使用，请见谅**
+**版本 2.0 Beta 的可执行文件只能在windows 10+上使用，请见谅**
 (其他系统有python的可以pip install -r requirements.txt，再进到Source目录下执行python xxx.py)
 
 ## TouchMouse 使用
