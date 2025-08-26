@@ -705,7 +705,7 @@ class ChatWindow(QMainWindow):
 
     def show_about(self):
         QMessageBox.about(self, "关于",
-                          "TouchMouse Version 1.0\n"
+                          "TouchMouse Version 2.0\n"
                           "Made by minermouse\n"
                           "联系邮箱: mouselovesmc@zohomail.cn")
 
