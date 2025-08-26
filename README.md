@@ -11,16 +11,12 @@
 **README 最初由 [yangdicheng2013] 撰写，本人已做部分修改。**
 
 # README 
-**版本 2.0 Beta 的可执行文件只能在windows 10+上使用，请见谅**
+**版本 2.0 Beta 的可执行文件只能在windows 10+上使用，且不与V1.0兼容，请见谅**
 (其他系统有python的可以pip install -r requirements.txt，再进到Source目录下执行python xxx.py)
 
 ## TouchMouse 使用
 
-1.[下载源码+可执行文件]()   (暂时废了)
-
-[Client.exe]()   (暂时废了)
-
-[Server.exe]()   (暂时废了)
+1.请在release下自取
 
 2.解压
 
@@ -43,5 +39,7 @@ qq 群 885981046，欢迎各位讨论、提建议和找Bug。
 ### 鸣谢：
 
 ### [yangdicheng2013](https://www.luogu.com.cn/user/1268479) for 宣传&编写README的最初版本!
+
+### [细数繁星](https://www.luogu.com.cn/user/824363) for 提出好点子！
 
 ### 你 for 使用!
