@@ -1,33 +1,21 @@
 # TouchFox —— 更好的轻量级客户端聊天程序
 
+TouchFox 是一个基于 Python 和 PyQt6 的轻量级聊天客户端，旨在提供简洁高效的用户体验。它支持多房间聊天、消息历史记录、用户列表显示等功能，适用于各种 ~~上课摸鱼场景~~ 聊天场景。
 
+基于 [MinerMouse](https://www.luogu.com.cn/user/1203704) 的 [TouchMouse](https://github.com/mouse-m/TouchMouse/) 项目改进而来。
 
-## TouchFox 使用
+## 使用
+前往 [Releases](https://github.com/ILoveScratch2/TouchFox/releases) 页面下载最新版本的可执行文件。
 
-1.请在release下自取
+- `TouchFox-Server.exe`：服务器端程序，运行后即可提供聊天服务。
+- `TouchFox-Client.exe`：客户端程序，运行后连接到服务器进行聊天。
 
-2.解压
-
-3.服务端运行 TouchServer.exe（如果出现蓝屏，点 更多 -> 仍要运行）
-
-若是同一局域网内首次使用：打开cmd，输入 `ipconfig`，找到 `无线局域网适配器 WLAN:` 下的 `IPv4 地址`，在 Server.exe 里输入这个地址，然后输入端口（建议使用默认端口）。
-
-等待窗口没有异常即开服成功
-
-4.客户端运行 TouchClient.exe（如果提示没连上服务器，请检查服务器地址/端口号是否正确）
-
-输入一个用户名，刚刚的 ip 地址 和 端口号，点击 连接
-
-5.客户端下方的窗口是聊天编辑区，点击预览后上方会显示聊天内容
-
-## 后续
-
-qq 群 885981046，欢迎各位讨论、提建议和找Bug。
 
 ### 鸣谢：
 
-- [yangdicheng2013](https://www.luogu.com.cn/user/1268479) for 宣传&编写README的最初版本!
+- [yangdicheng2013](https://www.luogu.com.cn/user/1268479)
 
-### [细数繁星](https://www.luogu.com.cn/user/824363) for 提出好点子！
+- [细数繁星](https://www.luogu.com.cn/user/824363)
 
+- [minermouse](https://www.luogu.com.cn/user/1203704)
 

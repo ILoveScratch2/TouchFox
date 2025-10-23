@@ -709,8 +709,8 @@ class ChatWindow(QMainWindow):
     def show_about(self):
         QMessageBox.about(self, "关于",
                           f"TouchFox Version {APP_VERSION}\n"
-                          "Made by minermouse\n"
-                          "联系邮箱: mouselovesmc@zohomail.cn")
+                          "Made with love by ILoveScratch2\n"
+                          "Email: ilovescratch@foxmail.com")
 
     def show_create_room_dialog(self):
         dlg = QDialog(self)
