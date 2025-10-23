@@ -2,7 +2,7 @@
 
 # Copyright © 2025 [MinerMouse]
 # Luogu UID:1203704
-# 本软件著作权归作者所有，代发布者仅协助发布，除经过授权，不享有任何著作权。
+# Portions Copyright © 2025 ILoveScratch2
 
 # endregion
 
@@ -15,7 +15,8 @@ import websockets
 import configparser
 import re
 
-# 接口版本号
+# 版本定义
+SERVER_VERSION = "3.0.1"
 API_VERSION = "1.0.0"
 
 logging.basicConfig(level=logging.INFO)
@@ -605,7 +606,7 @@ class ChatServer:
             await websocket.send(json.dumps({"type": "file_error", "message": str(e)}))
 
     async def run(self):
-        logging.info(f"TouchMouse V2.0 Beta 服务器监听 {self.host}:{self.port}")
+        logging.info(f"TouchFox V{SERVER_VERSION} 服务器监听 {self.host}:{self.port}")
         # 启动房间过期检查任务
         self.expiry_task = asyncio.create_task(self.check_room_expiry())
         async with websockets.serve(self.handle_client, self.host, self.port):

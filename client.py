@@ -2,7 +2,7 @@
 
 # Copyright © 2025 [MinerMouse]
 # Luogu UID:1203704
-# 本软件著作权归作者所有，代发布者仅协助发布，除经过授权，不享有任何著作权。
+# Portions Copyright © 2025 ILoveScratch2
 
 # endregion
 
@@ -17,6 +17,9 @@ import markdown
 from qt_material import apply_stylesheet, list_themes
 import configparser
 import hashlib
+
+# 版本定义
+APP_VERSION = "3.0.1"
 
 # 全局常量
 OWNER_COLOR = QColor(Qt.white)  # 房主名字颜色
@@ -72,7 +75,7 @@ class ChatWindow(QMainWindow):
         self.name, self.url = name, url
         self.current_room = "global"
         self.room_list = {}
-        self.setWindowTitle(f"TouchMouse V2.0 Beta - {name}")
+        self.setWindowTitle(f"TouchFox Version {APP_VERSION} {name}")
         self.resize(800, 600)
 
         central = QWidget()
@@ -705,7 +708,7 @@ class ChatWindow(QMainWindow):
 
     def show_about(self):
         QMessageBox.about(self, "关于",
-                          "TouchMouse Version 2.0\n"
+                          f"TouchFox Version {APP_VERSION}\n"
                           "Made by minermouse\n"
                           "联系邮箱: mouselovesmc@zohomail.cn")
 

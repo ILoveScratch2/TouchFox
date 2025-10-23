@@ -1,20 +1,8 @@
-# TouchMouse —— 更好的轻量级客户端聊天程序
+# TouchFox —— 更好的轻量级客户端聊天程序
 
-# COPYRIGHT
 
-**Copyright © 2025 [[MinerMouse](https://www.luogu.com.cn/user/1203704)]**
 
-**本软件著作权归作者所有，代发布者仅协助发布，不享有任何著作权。**
-
-**官方交流群：885981046**
-
-**README 最初由 [yangdicheng2013] 撰写，本人已做部分修改。**
-
-# README 
-**版本 2.0 Beta 的可执行文件只能在windows 10+上使用，且不与V1.0兼容，请见谅**
-(其他系统有python的可以pip install -r requirements.txt，再进到Source目录下执行python xxx.py)
-
-## TouchMouse 使用
+## TouchFox 使用
 
 1.请在release下自取
 
@@ -38,8 +26,8 @@ qq 群 885981046，欢迎各位讨论、提建议和找Bug。
 
 ### 鸣谢：
 
-### [yangdicheng2013](https://www.luogu.com.cn/user/1268479) for 宣传&编写README的最初版本!
+- [yangdicheng2013](https://www.luogu.com.cn/user/1268479) for 宣传&编写README的最初版本!
 
 ### [细数繁星](https://www.luogu.com.cn/user/824363) for 提出好点子！
 
-### 你 for 使用!
+
